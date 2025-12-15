@@ -1,1 +1,6 @@
-
+.vs/
+*.sln.ide*
+*.user
+*.suo
+*.sln.docstates
+# Додайте сюди інші файли Visual Studio, якщо потрібно
