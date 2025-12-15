@@ -19,7 +19,7 @@ int main() {
         return 0;
     }
 
-  for (int i = 0; i < 12; i++) {
+    for (int i = 0; i < 12; i++) {
         C[i] = A[i] % k;
         if (C[i] != 0) {
             product *= C[i];
