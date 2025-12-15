@@ -1,0 +1,1 @@
+# laboratorna_6_girls
