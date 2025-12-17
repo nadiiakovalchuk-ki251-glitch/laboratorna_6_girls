@@ -30,3 +30,13 @@ int main() {
     for (int i = 0; i < 12; i++) {
         cout << A[i] << " ";
     }
+ cout << "\n\nМасив C (остачі від ділення):\n";
+    for (int i = 0; i < 12; i++) {
+        cout << C[i] << " ";
+    }
+
+    cout << "\n\nДобуток ненульових елементів масиву C: "
+        << product << endl;
+
+    return 0;
+}
